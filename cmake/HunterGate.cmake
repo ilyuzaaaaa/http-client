@@ -29,7 +29,7 @@
 #
 #     include("cmake/HunterGate.cmake")
 #     HunterGate(
-#         URL "https://github.com/path/to/hunter/archive.tar.gz"
+#         UrlAdress "https://github.com/path/to/hunter/archive.tar.gz"
 #         SHA1 "798501e983f14b28b10cda16afa4de69eee1da1d"
 #     )
 #
